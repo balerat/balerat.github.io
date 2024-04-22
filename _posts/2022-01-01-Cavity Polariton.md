@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Text Formatting Examples"
-author: "Paul Le"
+title: "Cavity Polariton"
+author: "Baptiste Lerat"
 categories: journal
 tags: [documentation,sample]
 image: cards.jpg
