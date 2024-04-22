@@ -31,7 +31,10 @@ This website serves as a platform where I will share my personal projects in phy
 
 For a detailed look at my professional background, projects, and academic achievements, please feel free to download my CV:
 
-<embed src="/assets/resume.pdf" type="application/pdf">
+<object data="/assets/resume.pdf" type="application/pdf" width="700px" height="1000px">
+    <embed src="/assets/resume.pdf" type="application/pdf">
+    </embed>
+</object>
 
 ## Let's Connect
 
@@ -40,8 +43,3 @@ I am always looking to expand my network and collaborate on exciting projects in
 Thank you for taking the time to visit my website, and I look forward to the possibility of connecting and collaborating with you in the future!
 
 ---
-
-Baptiste Lerat  
-[Email](mailto:your-email@example.com)  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-[Twitter](https://twitter.com/your-twitter)
