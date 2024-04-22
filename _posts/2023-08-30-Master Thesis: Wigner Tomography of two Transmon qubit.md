@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Master Thesis: Wigner Tomography of two Transmon qubit"
+author: "Baptiste Lerat"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: twotransmon.png
 ---
 
 # Lagrange
